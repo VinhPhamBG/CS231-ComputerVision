@@ -1,7 +1,7 @@
 # EfficientNet V2
 
-## **Training source code:** [click here](https://www.kaggle.com/vinhphmquang/efficientnet-v2-fullaug/notebook)
+## **1. Training source code:** [click here](https://www.kaggle.com/vinhphmquang/efficientnet-v2-fullaug/notebook)
 
-## **Training weight:** [click here](https://www.kaggle.com/vinhphmquang/efficientnetv2model)
+## **2. Training weight:** [click here](https://www.kaggle.com/vinhphmquang/efficientnetv2model)
 
-## **Submission:** [click here](https://www.kaggle.com/vinhphmquang/efficientnet-v2-final-submit/notebook?scriptVersionId=80661819)
+## **3. Submission:** [click here](https://www.kaggle.com/vinhphmquang/efficientnet-v2-final-submit/notebook?scriptVersionId=80661819)
