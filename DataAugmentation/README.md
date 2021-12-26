@@ -16,7 +16,7 @@
 
 ## **III. 2 model submission:**
 
-1. Geometric + Artifact:** [Click here](https://www.kaggle.com/vinhphmquang/ensemnle-v2-geo-insect)
+1. Geometric + Artifact: [Click here](https://www.kaggle.com/vinhphmquang/ensemnle-v2-geo-insect)
 2. Full + Pixel: [Click here](https://www.kaggle.com/vinhphmquang/ensemnle-v2-full-pixel)
 3. Full + Artifact: [Click here](https://www.kaggle.com/vinhphmquang/ensemnle-v2-full-insect)
 4. Full + Geometric: [Click here](https://www.kaggle.com/vinhphmquang/ensemnle-v2-full-geo)
