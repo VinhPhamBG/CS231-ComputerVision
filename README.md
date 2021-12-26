@@ -1,1 +1,1 @@
-# CS231-ComputerVision
+# CS231.M11 - CS406.M11
