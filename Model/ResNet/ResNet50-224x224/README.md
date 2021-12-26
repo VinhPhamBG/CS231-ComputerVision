@@ -1,4 +1,4 @@
-# EfficientNet V2
+# ResNet50-224x224
 
 ## 1. Training source code: [click here](https://www.kaggle.com/tunguyen991/resnet50-fix/notebook)
 
